@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main() {
-    // Primeira carta
+    // Primeira carta.
     char estado1;
     char codigo1[4]; 
     char cidade1[50];
